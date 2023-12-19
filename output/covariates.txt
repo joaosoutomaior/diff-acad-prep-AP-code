@@ -1,0 +1,86 @@
+# A tibble: 195 × 1
+    value                     
+    <chr>                     
+  1 MS_ela_exam_percentile_08 
+  2 MS_math_exam_percentile_08
+  3 MS_ela_exam_percentile_07 
+  4 MS_math_exam_percentile_07
+  5 HS_susp_09                
+  6 HS_susp_10                
+  7 HS_total_cr_earned_09_eng 
+  8 HS_total_cr_earned_09_math
+  9 HS_total_cr_earned_09_sci 
+ 10 HS_total_cr_earned_09_acad
+ 11 HS_total_cr_earned_09     
+ 12 HS_gpa_eng_09             
+ 13 HS_gpa_math_09            
+ 14 HS_gpa_sci_09             
+ 15 HS_gpa_acad_09            
+ 16 HS_gpa_09                 
+ 17 HS_total_cr_earned_10_eng 
+ 18 HS_total_cr_earned_10_math
+ 19 HS_total_cr_earned_10_sci 
+ 20 HS_total_cr_earned_10_acad
+ 21 HS_total_cr_earned_10     
+ 22 HS_gpa_eng_10             
+ 23 HS_gpa_math_10            
+ 24 HS_gpa_sci_10             
+ 25 HS_gpa_acad_10            
+ 26 HS_gpa_10                 
+ 27 HS_att_09                 
+ 28 HS_att_10                 
+ 29 HS_pct_cr_earned_09       
+ 30 HS_pct_cr_earned_math_09  
+ 31 HS_pct_cr_earned_eng_09   
+ 32 HS_pct_cr_earned_sci_09   
+ 33 HS_pct_cr_earned_acad_09  
+ 34 HS_pct_acad_total_09      
+ 35 HS_pct_math_total_09      
+ 36 HS_pct_eng_total_09       
+ 37 HS_pct_sci_total_09       
+ 38 HS_pct_cr_earned_10       
+ 39 HS_pct_cr_earned_math_10  
+ 40 HS_pct_cr_earned_eng_10   
+ 41 HS_pct_cr_earned_sci_10   
+ 42 HS_pct_cr_earned_acad_10  
+ 43 HS_pct_acad_total_10      
+ 44 HS_pct_math_total_10      
+ 45 HS_pct_eng_total_10       
+ 46 HS_pct_sci_total_10       
+ 47 SCH_total_enrollment      
+ 48 SCH_class_size_09g        
+ 49 SCH_class_size_10g        
+ 50 SCH_consortium            
+ 51 SCH_HS_acad_expect_avg    
+ 52 SCH_HS_att_rate_avg       
+ 53 SCH_HS_communication_avg  
+ 54 SCH_HS_engagement_avg     
+ 55 SCH_HS_safety_avg         
+ 56 SCH_HS_4year_grad_rate    
+ 57 SCH_HS_peer_index         
+ 58 SCH_HS_progress_score     
+ 59 SCH_HS_environment_score  
+ 60 SCH_HS_total_score        
+ 61 SCH_spec_HS               
+ 62 SCH_exp_pp_instruction    
+ 63 SCH_exp_pp_adm            
+ 64 SCH_exp_pp_personal       
+ 65 SCH_exp_pp_total          
+ 66 SCH_hs_size               
+ 67 SCH_diversity_index       
+ 68 SCH_HS_total_size         
+ 69 SCH_HS_size_9g            
+ 
+School IDs suppressed ...
+
+185 HS_math_adv               
+186 cohort_2012               
+187 BIO_hlang_not_english     
+188 BIO_fr_lunch              
+189 BIO_age                   
+190 BIO_female                
+191 SCH_pct_black             
+192 SCH_pct_ell               
+193 SCH_pct_female            
+194 SCH_HS_pct_ap_math_atm    
+195 SCH_HS_pct_ap_math_pass   

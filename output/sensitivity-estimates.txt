@@ -1,0 +1,6 @@
+# A tibble: 3 × 6
+  race     estimate estimate_lb estimate_ub conf.low conf.high
+  <chr>       <dbl>       <dbl>       <dbl>    <dbl>     <dbl>
+1 Black       0.703       0.536       0.795    0.484     0.879
+2 Asian       1.58        1.26        1.69     1.16      1.85 
+3 Hispanic    0.733       0.656       0.951    0.591     1.05 

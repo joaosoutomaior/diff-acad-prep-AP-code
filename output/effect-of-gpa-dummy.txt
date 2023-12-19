@@ -1,0 +1,2 @@
+[1] "Effect of dummy GPA covariate on enrollment = 2.97"
+[1] "Effect of dummy GPA covariate on exam passage = 2.88"

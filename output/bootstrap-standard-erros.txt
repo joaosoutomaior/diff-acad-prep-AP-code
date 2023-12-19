@@ -1,0 +1,12 @@
+# A tibble: 120 × 3
+    term                   estimate  bs_se
+    <chr>                     <dbl>  <dbl>
+  1 (Intercept)        15.1         0.358 
+  2 raceBlack           0.703       0.0511
+  3 raceAsian           1.58        0.0451
+  4 raceHispanic        0.733       0.0525
+  5 raceOther           0.985       0.195 
+  6 logit_prob_passage  2.38        0.0136
+
+Note: School IDs suppressed ...
+

@@ -1,0 +1,13 @@
+# A tibble: 10 × 4
+   race         N   value cohort     
+   <fct>    <int>   <dbl> <chr>      
+ 1 White     4879 0.226   2012 sample
+ 2 Black     3951 0.183   2012 sample
+ 3 Asian     6377 0.295   2012 sample
+ 4 Hispanic  6215 0.288   2012 sample
+ 5 Other      166 0.00769 2012 sample
+ 6 White     4684 0.224   2011 sample
+ 7 Black     3898 0.187   2011 sample
+ 8 Asian     6303 0.302   2011 sample
+ 9 Hispanic  5836 0.279   2011 sample
+10 Other      168 0.00804 2011 sample

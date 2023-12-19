@@ -1,0 +1,27 @@
+# A tibble: 24 × 4
+   Group        type                value cohort
+   <chr>        <chr>               <dbl> <chr> 
+ 1 All students Pct. enrolled in a… 0.239 both  
+ 2 All students Pct. attempted at … 0.882 both  
+ 3 All students Pct. passed at lea… 0.605 both  
+ 4 All students Pct. passed at lea… 0.974 both  
+ 5 White        Pct. enrolled in a… 0.238 both  
+ 6 White        Pct. attempted at … 0.904 both  
+ 7 White        Pct. passed at lea… 0.637 both  
+ 8 White        Pct. passed at lea… 0.985 both  
+ 9 Black        Pct. enrolled in a… 0.132 both  
+10 Black        Pct. attempted at … 0.751 both  
+11 Black        Pct. passed at lea… 0.401 both  
+12 Black        Pct. passed at lea… 0.946 both  
+13 Asian        Pct. enrolled in a… 0.392 both  
+14 Asian        Pct. attempted at … 0.923 both  
+15 Asian        Pct. passed at lea… 0.692 both  
+16 Asian        Pct. passed at lea… 0.984 both  
+17 Hispanic     Pct. enrolled in a… 0.149 both  
+18 Hispanic     Pct. attempted at … 0.819 both  
+19 Hispanic     Pct. passed at lea… 0.391 both  
+20 Hispanic     Pct. passed at lea… 0.945 both  
+21 Other        Pct. enrolled in a… 0.237 both  
+22 Other        Pct. attempted at … 0.848 both  
+23 Other        Pct. passed at lea… 0.716 both  
+24 Other        Pct. passed at lea… 0.987 both  

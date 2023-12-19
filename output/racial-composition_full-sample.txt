@@ -1,0 +1,8 @@
+# A tibble: 5 × 3
+  race         N   value
+  <fct>    <int>   <dbl>
+1 White     9563 0.225  
+2 Black     7849 0.185  
+3 Asian    12680 0.299  
+4 Hispanic 12051 0.284  
+5 Other      334 0.00786

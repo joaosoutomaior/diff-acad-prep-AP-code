@@ -1,0 +1,54 @@
+[1] "Data summary"
+[1] "Train: enrollment model"
+
+\begin{tabular}[t]{llll}
+\toprule
+AP\_math\_enroll\_logical & AP\_math\_exam\_logical & N & Pct of cohort\\
+\midrule
+FALSE & FALSE & 31542 & 74.3\%\\
+FALSE & TRUE & 773 & 1.8\%\\
+TRUE & FALSE & 1197 & 2.8\%\\
+TRUE & TRUE & 8957 & 21.1\%\\
+\bottomrule
+\end{tabular}
+[1] "Description of train/test samples"
+[1] "Train: enrollment model"
+
+\begin{tabular}[t]{lll}
+\toprule
+AP\_math\_enroll\_logical & N & Pct of cohort\\
+\midrule
+FALSE & 29111 & 76.1\%\\
+TRUE & 9142 & 23.9\%\\
+\bottomrule
+\end{tabular}
+[1] "Train: passage model"
+
+\begin{tabular}[t]{lllll}
+\toprule
+AP\_math\_enroll\_logical & AP\_math\_exam\_logical & AP\_math\_pass\_logical & N & Pct of cohort\\
+\midrule
+TRUE & TRUE & FALSE & 3153 & 39.1\%\\
+TRUE & TRUE & TRUE & 4902 & 60.9\%\\
+\bottomrule
+\end{tabular}
+[1] "Test: enrollment model"
+
+\begin{tabular}[t]{lll}
+\toprule
+AP\_math\_enroll\_logical & N & Pct of cohort\\
+\midrule
+FALSE & 3204 & 76\%\\
+TRUE & 1012 & 24\%\\
+\bottomrule
+\end{tabular}
+[1] "Test: passage model"
+
+\begin{tabular}[t]{lllll}
+\toprule
+AP\_math\_enroll\_logical & AP\_math\_exam\_logical & AP\_math\_pass\_logical & N & Pct of cohort\\
+\midrule
+TRUE & TRUE & FALSE & 386 & 42.8\%\\
+TRUE & TRUE & TRUE & 516 & 57.2\%\\
+\bottomrule
+\end{tabular}

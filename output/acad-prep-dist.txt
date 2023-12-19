@@ -1,0 +1,7 @@
+# A tibble: 4 × 2
+  race     grp.mean
+  <fct>       <dbl>
+1 White        35.4
+2 Black        16.5
+3 Asian        49.5
+4 Hispanic     18.6

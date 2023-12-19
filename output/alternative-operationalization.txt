@@ -1,0 +1,24 @@
+[1] "AP_math_pass variable under alternative operationalizations"
+# A tibble: 3 × 3
+  r     Count Percentage
+  <chr> <dbl> <chr>     
+1 0     36778 86.58%    
+2 1      5699 13.42%    
+3 <NA>      0 0%        
+# A tibble: 3 × 3
+  r     Count Percentage
+  <chr> <dbl> <chr>     
+1 0     36853 86.76%    
+2 1      5624 13.24%    
+3 <NA>      0 0%        
+[1] "AP_math_pass variable under choosen operationalization"
+# A tibble: 3 × 3
+  r     Count Percentage
+  <chr> <dbl> <chr>     
+1 0     36459 85.83%    
+2 1      6018 14.17%    
+3 <NA>      0 0%        
+[1] "Number of columns which change with the new operationalization 1:  319"
+[1] "Pct. of columns which change with the new operationalization 1:  0.00750994655931445"
+[1] "Number of columns which change with the new operationalization 1:  394"
+[1] "Pct. of columns which change with the new operationalization 1:  0.00927560797608117"

@@ -1,0 +1,16 @@
+# A tibble: 12 × 3
+# Groups:   race [4]
+   race     subgroup                                             grp.mean
+   <fct>    <chr>                                                   <dbl>
+ 1 White    "AP math enrollment = No"                                27.0
+ 2 White    "AP math enrollment = Yes;\nAP math exam participat…     47.2
+ 3 White    "AP math enrollment = Yes;\nAP math exam participat…     64.0
+ 4 Black    "AP math enrollment = No"                                13.7
+ 5 Black    "AP math enrollment = Yes;\nAP math exam participat…     23.0
+ 6 Black    "AP math enrollment = Yes;\nAP math exam participat…     38.6
+ 7 Asian    "AP math enrollment = No"                                37.5
+ 8 Asian    "AP math enrollment = Yes;\nAP math exam participat…     50.6
+ 9 Asian    "AP math enrollment = Yes;\nAP math exam participat…     69.5
+10 Hispanic "AP math enrollment = No"                                15.6
+11 Hispanic "AP math enrollment = Yes;\nAP math exam participat…     19.3
+12 Hispanic "AP math enrollment = Yes;\nAP math exam participat…     39.3

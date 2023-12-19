@@ -1,0 +1,39 @@
+[1] "Total number of students enrolled in 7th grade in the Fall 2010 after merge 31645"
+[1] "Total number of schools after merge 116"
+[1] "Total number of students enrolled in 8th grade in the Fall 2011 after merge 31371"
+[1] "Total number of schools after merge 116"
+[1] "Total number of students enrolled in 9th grade in the Fall 2013 before filter 47775"
+[1] "Total number of students enrolled in 9th grade in the Fall 2013 after merge 31371"
+[1] "Pct. of grade =  66 %"
+[1] "Pct. of sample =  67 %"
+[1] "Total number of schools after merge 116"
+[1] "Total number of students enrolled in 10th grade in the Fall 2013 before filter 43050"
+[1] "Total number of students enrolled in 10th grade in the Fall 2013 after merge 26440"
+[1] "Pct. of grade =  61 %"
+[1] "Pct. of sample =  57 %"
+[1] "Total number of schools after merge 116"
+[1] "Total number of students enrolled in 11th grade in the Fall 2014 before filter 35591"
+[1] "Total number of students enrolled in 11th grade in the Fall 2014 after merge 22911"
+[1] "Pct. of grade =  64 %"
+[1] "Pct. of sample =  49 %"
+[1] "Total number of schools after merge 115"
+[1] "Total number of students enrolled in 12th grade in the Fall 2015 before filter 36275"
+[1] "Total number of students enrolled in 12th grade in the Fall 2015 after merge 21382"
+[1] "Pct. of grade =  59 %"
+[1] "Pct. of sample =  46 %"
+[1] "Total number of schools after merge 115"
+[1] "Total number of students after transfer check 20889"
+[1] "Total number of schools after transfer check 115"
+[1] "Pct. of grade =  58 %"
+[1] "Pct. of sample =  45 %"
+[1] "Total number of schools after merge 115"
+[1] "Total number of students in the Fall 2016 after merge 20889"
+[1] "Total number of schools after merge 115"
+[1] "High school graduates"
+     Count Percentage
+0     1292       6.19
+1    19597      93.81
+<NA>     0       0.00
+[1] FALSE
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  1.0000  1.0000  0.9685  1.0000  1.0000 

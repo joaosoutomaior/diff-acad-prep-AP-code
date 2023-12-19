@@ -1,0 +1,24 @@
+# A tibble: 20 × 5
+# Groups:   cohort [2]
+   cohort race     name  value type             
+   <chr>  <fct>    <chr> <dbl> <chr>            
+ 1 2011   White    True   23.9 Course enrollment
+ 2 2011   Black    True   13.2 Course enrollment
+ 3 2011   Asian    True   38.0 Course enrollment
+ 4 2011   Hispanic True   14.1 Course enrollment
+ 5 2011   Other    True   23.2 Course enrollment
+ 6 2012   White    True   23.7 Course enrollment
+ 7 2012   Black    True   13.0 Course enrollment
+ 8 2012   Asian    True   40.4 Course enrollment
+ 9 2012   Hispanic True   15.6 Course enrollment
+10 2012   Other    True   24.1 Course enrollment
+11 2011   White    True   66.1 Exam passage     
+12 2011   Black    True   40.3 Exam passage     
+13 2011   Asian    True   69.2 Exam passage     
+14 2011   Hispanic True   37.7 Exam passage     
+15 2011   Other    True   78.1 Exam passage     
+16 2012   White    True   61.4 Exam passage     
+17 2012   Black    True   39.9 Exam passage     
+18 2012   Asian    True   69.1 Exam passage     
+19 2012   Hispanic True   40.2 Exam passage     
+20 2012   Other    True   65.7 Exam passage     

@@ -1,0 +1,23 @@
+# A tibble: 20 × 4
+   race     name      value type             
+   <fct>    <chr>     <dbl> <chr>            
+ 1 White    True       25.0 Course enrollment
+ 2 White    Estimated  24.6 Course enrollment
+ 3 Black    True       14.3 Course enrollment
+ 4 Black    Estimated  13.2 Course enrollment
+ 5 Asian    True       38.5 Course enrollment
+ 6 Asian    Estimated  36.6 Course enrollment
+ 7 Hispanic True       15.0 Course enrollment
+ 8 Hispanic Estimated  15.2 Course enrollment
+ 9 Other    True       22.6 Course enrollment
+10 Other    Estimated  27.9 Course enrollment
+11 White    True       55.4 Exam passage     
+12 White    Estimated  60.2 Exam passage     
+13 Black    True       39.8 Exam passage     
+14 Black    Estimated  41.3 Exam passage     
+15 Asian    True       68.0 Exam passage     
+16 Asian    Estimated  67.8 Exam passage     
+17 Hispanic True       38.4 Exam passage     
+18 Hispanic Estimated  39.0 Exam passage     
+19 Other    True       66.7 Exam passage     
+20 Other    Estimated  50.2 Exam passage     
